@@ -58,6 +58,8 @@ a{
 /*===================================================================================================================*/
 #page{
     background-image:url('images/background02.jpg');
+    background-repeat:no-repeat;
+    background-size:cover;
     height:800px;
     width:100%;
 }
